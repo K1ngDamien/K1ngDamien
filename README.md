@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align=center> 
+  <h1> Hi! My name is Damiën! 👋 </h1>
+</div>
+
+<img align="right" alt="GIF" src="https://k1ngdamien.com/assets/img/uploads/profile.png" width="200" height="200" />
+<br/><br/>
+
+### 
 
 <!--
 **K1ngDamien/K1ngDamien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ✨ ETHICAL HACKING SKILLSET
+➥ Web Applications | Mobile Applications (Android) | Infrastructure | Physical | Active Directory (AD) <br>
+
+
+### ✨ OTHER EXPERTISE
+..
+
+
+### ✨ PROJECTS
