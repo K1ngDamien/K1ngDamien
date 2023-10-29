@@ -26,8 +26,13 @@ Here are some ideas to get you started:
 ➥ Web Applications | Mobile Applications (Android) | Infrastructure | Physical | Active Directory (AD) <br>
 
 
-### ✨ OTHER EXPERTISE
-..
+### ⚡ OTHER EXPERTISE
+➥ **Secure Coding:** Assisting developers in creating more secure code <br>
+➥ **Secure Code Reviews:** Reviewing code for vulnerabilities along with white box pentesting <br>
+➥ **Red Teaming:** Engagements mimicking APTs or a mix of well known APTs <br>
+➥ **DevSecOps:** Helping companies in implementing security measures in the traditonal DevOps cycle. <br>
 
 
-### ✨ PROJECTS
+### 🔭 PROJECTS
+➥ **K1ngDamien Security Blog:** Assisting developers in creating more secure code <br>
+➥ **The Python Care Package (WIP):** A small project over entry-level Red Teaming tools you can quickly copy, code or run yourself on engagements! <br>
