@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 
 ### 🔭 PROJECTS
-➥ **K1ngDamien Security Blog:** Assisting developers in creating more secure code <br>
+➥ **K1ngDamien Security Blog:** A blog that covers several cyber security topics ranging from CTF writeups, to new interesting tooling, to investigations and proof of concepts! <br>
 ➥ **The Python Care Package (WIP):** A small project over entry-level Red Teaming tools you can quickly copy, code or run yourself on engagements! <br>
